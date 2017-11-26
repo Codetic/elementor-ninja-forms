@@ -1,4 +1,4 @@
-=== Elementor Ninja Forms ===
+=== Ninja Forms styler for Elementor Page Builder ===
 Contributors: re_enter_rupok, Asif2BD, robicse11128, codetic
 Tags: elementor, ninja forms, ninja form styler, elementor addon, elementor widget
 Requires at least: 4.0
@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
-Ninja Forms styler for Elementor page builder.
+Style your Ninja forms right from the Elementor visual editor.
 
 == Description ==
 

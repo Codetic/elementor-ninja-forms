@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Elementor Ninja Forms
+ * Plugin Name: Ninja Forms styler for Elementor
  * Description: Ninja Forms styler for elementor. Design the form visually with elementor.
- * Plugin URI: https://essential-addons.com/elementor/contact-form-7
+ * Plugin URI: https://essential-addons.com/elementor/ninja-forms
  * Author: Essential Addons
  * Version: 1.0.0
  * Author URI: https://essential-addons.com/elementor/
